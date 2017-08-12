@@ -1,4 +1,4 @@
-# Project6-LinuxServer
+# Linux Server Project
 ### Server Details
 IP Address: 18.220.52.108
 SSH Port: 2200
